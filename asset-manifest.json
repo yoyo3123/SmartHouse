@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SmartHouse1/static/css/main.be6e1bc1.css",
+    "main.js": "/SmartHouse1/static/js/main.8961b3de.js",
+    "static/js/787.fea5cc7c.chunk.js": "/SmartHouse1/static/js/787.fea5cc7c.chunk.js",
+    "index.html": "/SmartHouse1/index.html",
+    "main.be6e1bc1.css.map": "/SmartHouse1/static/css/main.be6e1bc1.css.map",
+    "main.8961b3de.js.map": "/SmartHouse1/static/js/main.8961b3de.js.map",
+    "787.fea5cc7c.chunk.js.map": "/SmartHouse1/static/js/787.fea5cc7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6e1bc1.css",
+    "static/js/main.8961b3de.js"
+  ]
+}
