@@ -4,7 +4,7 @@ import Homerooms from './components/Homerooms';
 import Personalroom from './components/Personalroom';
 import Addroom from './components/Addroom';
 import { Roomprovider } from './ContextApi';
-import {BrowserRouter,Routes,Route} from 'react-router-dom';
+import {HashRouter,Routes,Route} from 'react-router-dom';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Roomprovider>
       
       <Header/>
-      <BrowserRouter>
+      <HashRouter>
 
         <Routes>
 
@@ -30,7 +30,7 @@ function App() {
       
       
       
-      </BrowserRouter>
+      </HashRouter>
       </Roomprovider>
     </div>
   );
